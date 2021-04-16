@@ -1,0 +1,66 @@
+.form{
+    margin-bottom: 50px;   
+    padding-bottom: 20px;
+}
+.month{
+    border-top:1px groove;
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.month_title{
+    
+    width: 20%;
+    font-size:20px;
+}
+.month_date{
+    
+    text-align: right;
+    width: 80%;
+    font-size:20px;
+}
+/**/
+.blogger{
+    border-top:1px groove;
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.blog_title{
+    
+    width: 20%;
+}
+.blog_date{
+    
+    width: 80%;
+    text-align: right;
+}
+.blog_title a{
+    color: black;
+}
+/*paging*/
+.paging{
+    height: 40px;
+    padding-left: 300px;
+    margin-top: 20px;
+}
+.paging a{
+    
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    border: 0.5px lightgrey solid;
+    border-radius: 5px;
+    padding: 8px 8px 8px 8px;
+}
+.active{
+    color: blue !important;    
+    
+}
+
+
+
+
+
+
